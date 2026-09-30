@@ -10,7 +10,7 @@ Track income and spending, see where your money goes, and stay in control, with 
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](#-tech-stack)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](#-license)
 
-[**🌐 Live Demo**](https://heyGunjan.github.io/expenseflow/) · [**🐛 Report a Bug**](https://github.com/heyGunjan/expenseflow/issues) · [**💡 Request a Feature**](https://github.com/expenseflow/issues)
+[**🌐 Live Demo**](https://heyGunjan.github.io/expenseflow-tracker/) · [**🐛 Report a Bug**](https://github.com/heyGunjan/expenseflow-tracker/issues) · [**💡 Request a Feature**](https://github.com/heyGunjan/expenseflow-tracker/issues)
 
 <!-- Replace with your own screenshot: put it in /screenshots and update the path -->
 ![ExpenseFlow Dashboard](screenshots/dashboard.png)
@@ -55,10 +55,10 @@ No installation or build step is needed.
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/YOUR-USERNAME/expenseflow.git
+git clone https://github.com/heyGunjan/expenseflow-tracker.git
 
 # 2. Go into the project folder
-cd expenseflow
+cd expenseflow-tracker
 
 # 3. Open index.html in your browser
 ```
@@ -68,7 +68,7 @@ Or just double-click `index.html`. To use a local server instead, VS Code's **Li
 ## 📂 Project Structure
 
 ```
-expenseflow/
+expenseflow-tracker/
 ├── index.html      # App layout: sidebar, dashboard, modals, pages
 ├── style.css       # All styling, themes and animations
 ├── app.js          # App logic: CRUD, filters, chart, settings, storage
@@ -120,10 +120,10 @@ Distributed under the **MIT License**. See [`LICENSE`](LICENSE) for details.
 
 ## 👤 Author
 
-**Shivam**
+**Gunjan Mishra**
 
-- GitHub: [@YOUR-USERNAME](https://github.com/YOUR-USERNAME)
-- LinkedIn: [your-linkedin](https://linkedin.com/in/your-linkedin)
+- GitHub: [@heyGunjan](https://github.com/heyGunjan)
+- LinkedIn: [Gunjan Mishra](https://www.linkedin.com/in/gunjan-mishra-78118b339)
 
 ---
 
