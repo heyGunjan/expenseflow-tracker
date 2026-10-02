@@ -13,7 +13,7 @@ Track income and spending, see where your money goes, and stay in control, with 
 [**🌐 Live Demo**](https://heyGunjan.github.io/expenseflow-tracker/) · [**🐛 Report a Bug**](https://github.com/heyGunjan/expenseflow-tracker/issues) · [**💡 Request a Feature**](https://github.com/heyGunjan/expenseflow-tracker/issues)
 
 <!-- Replace with your own screenshot: put it in /screenshots and update the path -->
-![ExpenseFlow Dashboard](screenshots/dashboard.png)
+![ExpenseFlow Dashboard](screenshots/Dashboard.png)
 
 </div>
 
@@ -86,13 +86,18 @@ expenseflow-tracker/
 
 ## 📸 Screenshots
 
-| Dashboard | Analytics |
+| Dashboard | Transactions |
 | :---: | :---: |
-| ![Dashboard](screenshots/dashboard.png) | ![Analytics](screenshots/analytics.png) |
+| ![Dashboard](screenshots/Dashboard.png) | ![Transactions](screenshots/Transactions.png) |
 
-| Add Transaction | Light Theme |
+| Analytics | Settings |
 | :---: | :---: |
-| ![Add Transaction](screenshots/add-transaction.png) | ![Light Theme](screenshots/light-theme.png) |
+| ![Analytics](screenshots/Analytics.png) | ![Settings](screenshots/Setting.png) |
+
+| Light Theme: Dashboard | Light Theme: Transactions |
+| :---: | :---: |
+| ![Light Dashboard](screenshots/dash-light-theme.png) | ![Light Transactions](screenshots/trans-light-theme.png) |
+
 
 ## 🗺️ Roadmap
 
